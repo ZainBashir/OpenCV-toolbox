@@ -1,0 +1,1 @@
+vid = videoinput ('winvideo');
