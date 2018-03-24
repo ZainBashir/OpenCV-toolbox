@@ -8,8 +8,8 @@ A good amount of help was taken from the book titled
 ## How to use
 Both the GUI's are very simple to use. Just load your desired image, choose an OpenCV function given in the drop down list and press apply.
 
-###C++
+### C++
 You need to configure your .pro file to include OpenCV library
 
-###MATLAB
+### MATLAB
 Refer to the MATLAB user manual given as a pdf in this repository.
